@@ -1,4 +1,4 @@
-# web
+# slide design project
 <!DOCTYPE html>
 <html lang="en">
 <head>
